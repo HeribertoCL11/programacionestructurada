@@ -1,0 +1,8 @@
+temp = float(input("Ingrese la temperatura (°C): "))
+
+if temp < 20:
+    print("Ventilador APAGADO")
+elif temp <= 30:
+    print("Ventilador en BAJA velocidad")
+else:
+    print("Ventilador en ALTA velocidad")
