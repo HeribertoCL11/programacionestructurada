@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+km
+1
+0
+3
+mts
+4
+1000
+2
+cm
+6
+100000
+4
+1
+23
+'coloca los kilometros'
+5
+1
+2
+km
+6
+2
+10
+resultado1
+5
+km*cm
+10
+resultado2
+6
+km*mts
+4
+1
+31
+'resultado en cm = ',resultado1
+4
+1
+31
+'resultado en km = ',resultado2
+1
