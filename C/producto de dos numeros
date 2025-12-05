@@ -1,0 +1,17 @@
+// producto de dos numeros
+#include <stdio.h>
+
+int main() {
+    float a;
+    float b;
+    float producto;
+    printf("ingresa un numero");
+    scanf("%f",&a);
+    printf("ingresa otro numero");
+    scanf("%f",&b);
+    producto=a*b;
+    printf("el producto es =  %.2f\n",producto);
+    
+
+    return 0;
+}
